@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @ignitinsharma
-- 👀 I’m Learning `MERN stack devlopment`
+- 👋 Hi, I’m ***@ignitinsharma***
+- 👀 I’m Learning `MERN` Stack Devlopment
