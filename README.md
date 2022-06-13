@@ -1,2 +1,3 @@
 - 👋 Hi, I’m ***@ignitinsharma***
-- 👀 I’m Learning `MERN` Stack Devlopment
+- 👀 I’m Learning `MERN` Stack Devlopment.
+- 😷 Javasacript + DSA + Tea = 💖
