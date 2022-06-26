@@ -1,3 +1,3 @@
 - 👋 Hi, I’m ***@ignitinsharma***
-- 👀 I’m Learning `MERN` Stack Devlopment.
+- 👀 Learning `MERN` Stack Devlopment.
 - 😷 JavaScript + DSA 😵‍💫+ Tea ☕ = Incoming SDE
