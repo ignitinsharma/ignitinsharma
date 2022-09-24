@@ -1,6 +1,6 @@
 
 ![Logo](https://github.com/ignitinsharma/ignitinsharma/blob/main/github_banner.png)
-<h1 align="center">Hi 👋, I'm Ignitinsharma</h1>
+<h1 align="center">Hi 👋, I'm Nitin Sharma</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 </br>
 
