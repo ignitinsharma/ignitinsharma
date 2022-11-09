@@ -47,16 +47,15 @@
 
 <div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ignitinsharma&show_icons=true&locale=en&layout=compact" alt="ignitinsharma" /></p>
-</div>
+</
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ignitinsharma&show_icons=true&locale=en" alt="ignitinsharma" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ignitinsharma&" alt="ignitinsharma" /></p>
+div>
+</br>
+</br>
 
-</br>
-</br>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</br>
 
 
