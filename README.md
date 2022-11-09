@@ -57,7 +57,7 @@
 </br>
 </br>
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
