@@ -18,6 +18,7 @@
 
 - ⚡ Fun fact **I think I'm Lazy person and meme lover 😂**
 
+</br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ignitinsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ignitinsharma" height="30" width="40" /></a>
@@ -48,8 +49,8 @@
 <h3 align="left">GitHub Stats: </h3>
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=ignitinsharma&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ignitinsharma&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ignitinsharma&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/></br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ignitinsharma&theme=dark&hide_border=false)<br/></br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ignitinsharma&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </br>
