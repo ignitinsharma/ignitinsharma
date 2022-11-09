@@ -25,6 +25,8 @@
 <a href="https://instagram.com/ignitinsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ignitinsharma" height="30" width="40" /></a>
 </p>
 
+</br>
+</br>
 <h3 align="left">Languages and Tools: </h3>
 <div align="center"> 
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -40,19 +42,17 @@
  <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a> 
 </div>
 <br/>  
-
+</br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ignitinsharma&show_icons=true&locale=en&layout=compact" alt="ignitinsharma" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ignitinsharma&show_icons=true&locale=en" alt="ignitinsharma" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ignitinsharma&" alt="ignitinsharma" /></p>
 
-
-
+</br>
+</br>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </br>
-</br>
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
