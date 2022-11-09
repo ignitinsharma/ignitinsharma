@@ -44,7 +44,11 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ignitinsharma&show_icons=true&locale=en&layout=compact" alt="ignitinsharma" /></p>
-
+</br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ignitinsharma&show_icons=true&locale=en" alt="ignitinsharma" /></p>
-
+</br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ignitinsharma&" alt="ignitinsharma" /></p>
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
