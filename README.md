@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/ignitinsharma" target="blank"><img src="https://img.shields.io/twitter/follow/ignitinsharma?logo=twitter&style=for-the-badge" alt="ignitinsharma" /></a> </p>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently building stuff using **MERN stack**
 
 - 💬 Ask me about **JavaScript, React**
 
