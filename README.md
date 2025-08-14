@@ -1,5 +1,3 @@
-
-![Logo](https://github.com/ignitinsharma/ignitinsharma/blob/main/github_banner.png)
 <h1 align="center">Hi🙋‍♂️ I'm Nitin Sharma</h1>
 <h3 align="center">Full Stack Web developer / Frontend Developer</h3>
 </br>
@@ -21,9 +19,9 @@
 </br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ignitinsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ignitinsharma" height="30" width="40" /></a>
+<a href="https://twitter.com/nitinbatman_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ignitinsharma" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ignitinsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ignitinsharma" height="30" width="40" /></a>
-<a href="https://instagram.com/ignitinsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ignitinsharma" height="30" width="40" /></a>
+
 </p>
 
 </br>
