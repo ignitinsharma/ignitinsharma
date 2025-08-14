@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ignitinsharma&label=Profile%20views&color=0e75b6&style=flat" alt="ignitinsharma" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ignitinsharma" target="blank"><img src="https://img.shields.io/twitter/follow/ignitinsharma?logo=twitter&style=for-the-badge" alt="ignitinsharma" /></a> </p>
+<p align="left"> <a href="https://twitter.com/nitinbatman_" target="blank"><img src="https://img.shields.io/twitter/follow/ignitinsharma?logo=twitter&style=for-the-badge" alt="ignitinsharma" /></a> </p>
 
 - 🌱 I’m currently building stuff using **MERN stack**
 
