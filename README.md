@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/nitinbatman_" target="blank"><img src="https://img.shields.io/twitter/follow/ignitinsharma?logo=twitter&style=for-the-badge" alt="ignitinsharma" /></a> </p>
 
-- 🌱 I’m currently building stuff using **MERN stack**
+- 🌱 I’m currently building stuff using **Full stack technologies**
 
 - 💬 Ask me about **JavaScript, React**
 
